@@ -19,3 +19,5 @@ Custom/Core/*
 Custom/Modules/*
 
 Extras/History/*
+
+Conf/*.dist
